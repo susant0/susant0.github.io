@@ -1,0 +1,26 @@
+body{
+    font-family: Montserrat;
+}
+.nav .nav-link{
+    color: white;
+    font-weight: 100;
+}
+.card-body .display-4 span {
+    color: #1D5988;
+    font-weight: bold;
+    font-size: 4rem;
+}
+.card-body{
+    position: relative;
+    overflow: hidden;
+}
+.bg-img{
+ position: absolute;
+ bottom: -5px;
+ right: -20px;
+ width: 50%;
+}
+.btn-primary{
+    background-color: #143f5f;
+    border-color:#143f5f;
+}

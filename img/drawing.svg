@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 105.83333 105.83333"
+   height="400"
+   width="400">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="219.42531"
+     inkscape:cx="127.56087"
+     inkscape:zoom="0.94367137"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       d="M 74.216871,26.994461 A 46.435702,46.435702 0 0 0 27.895134,73.430097 46.435702,46.435702 0 0 0 41.870515,106.63535 H 106.64052 V 40.077817 a 46.435702,46.435702 0 0 0 -32.30975,-13.083356 46.435702,46.435702 0 0 0 -0.113899,0 z"
+       style="opacity:0.997;fill:#f0e64a;fill-opacity:1;stroke-width:2.24908;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path9401" />
+    <path
+       transform="scale(0.26458333)"
+       d="M 148.19336,256.53906 A 145.46197,145.46197 0 0 0 3.03125,402 145.46197,145.46197 0 0 0 3.03516,403.05078 H 293.95117 A 145.46197,145.46197 0 0 0 293.95508,402 145.46197,145.46197 0 0 0 148.49219,256.53906 a 145.46197,145.46197 0 0 0 -0.29883,0 z"
+       style="fill:#cf50d7;fill-opacity:1;stroke-width:8.7323;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="rect9414" />
+  </g>
+</svg>
