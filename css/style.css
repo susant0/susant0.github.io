@@ -1,9 +1,12 @@
 body{
     font-family: Montserrat;
 }
-.nav .nav-link{
+.navbar{
     color: white;
-    font-weight: 100;
+    font-weight: 600;
+}
+.navbar-brand h2{
+    font-weight: 700;
 }
 .card-body .display-4 span {
     color: #1D5988;
