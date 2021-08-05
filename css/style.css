@@ -8,10 +8,15 @@ body{
 .navbar-brand h2{
     font-weight: 700;
 }
-.card-body .display-4 span {
+ .display-4 span {
     color: #1D5988;
     font-weight: bold;
     font-size: 4rem;
+}
+@media (max-width: 600px) {
+   .card-body .col-6{
+        width:unset;
+    }
 }
 .card-body{
     position: relative;
