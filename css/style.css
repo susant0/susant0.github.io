@@ -32,3 +32,20 @@ body{
     background-color: #143f5f;
     border-color:#143f5f;
 }
+
+/* resume  */
+.bg-cyan{
+    background-color: #2AB0A8;
+}
+.bg-purple{
+    background-color: #4d356c;
+
+}
+.bg-red{
+    background-color: #b02a32;
+}
+@media (max-width: 500px) {
+    .contact{
+         font-size: 0.6rem;
+     }
+ }
