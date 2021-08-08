@@ -27,17 +27,17 @@ body{
     background-color: #143f5f;
     border-color:#143f5f;
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     .card-body .col-6{
          width:unset;
      }
  }
- @media (max-width: 500px) {
+ @media (max-width: 600px) {
     body{
          font-size: 12px;
      }
  }
- @media (max-width: 500px) {
+ @media (max-width: 600px) {
     .content h5{
          font-size: 0.7rem;
      }
