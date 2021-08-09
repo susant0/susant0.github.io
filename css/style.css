@@ -45,6 +45,8 @@ body{
 /* resume  */
 .bg-cyan{
     background-color: #2AB0A8;
+    position: relative;
+    overflow: ;
 }
 .bg-purple{
     background-color: #4d356c;
@@ -57,4 +59,18 @@ body{
     .contact{
          font-size: 0.6rem;
      }
+ }
+ .img-cube{
+     width: 28%;
+     position: absolute;
+     right: 50px;
+     bottom: -50px;
+ }
+ @media (max-width: 500px) {
+ .img-cube{
+    width: 38%;
+    position: absolute;
+    right: 50px;
+    bottom: -20px;
+    }
  }
