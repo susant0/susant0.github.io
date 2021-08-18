@@ -49,8 +49,13 @@ body{
     overflow: ;
 }
 .bg-purple{
-    background-color: #4d356c;
-
+     background-color: #4d356c;
+     border: unset;
+     
+ }
+.bg-purple img{
+    mix-blend-mode: lighten;
+    height: 200px;
 }
 .bg-red{
     background-color: #b02a32;
@@ -74,3 +79,4 @@ body{
     bottom: -20px;
     }
  }
+ 
