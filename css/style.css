@@ -46,7 +46,6 @@ body{
 .bg-cyan{
     background-color: #2AB0A8;
     position: relative;
-    overflow: ;
 }
 .bg-purple{
      background-color: #4d356c;
@@ -78,5 +77,8 @@ body{
     right: 50px;
     bottom: -20px;
     }
+ }
+ .text-cyan{
+     color: #24948D;
  }
  
