@@ -81,4 +81,6 @@ body{
  .text-cyan{
      color: #24948D;
  }
- 
+ .img-rounded{
+     border-radius: 50%;
+ }
